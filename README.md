@@ -21,9 +21,10 @@ Define your environment variables in `.env.json` in the root of your project (or
 Load your environment variables at the beginning of your program:
 
 ```js
-require("dotenv-json")();
+require("dotenv-jsonenv")();
 
 console.log(process.env.public_api_key) // => s@Mpl3_d@Ta
+console.log(process.env.OTHER_ENV_VARS) // => otherEnvVars
 ```
 
 _N.B. Existing keys in `process.env` will **not** be overwritten._
