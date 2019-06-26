@@ -1,0 +1,22 @@
+{
+  "name": "dotenv-jsonenv",
+  "version": "1.0.0",
+  "description": "Load environment variables via a JSON file's env property",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardszanyi/dotenv-jsonenv.git"
+  },
+  "keywords": [
+    "dotenv"
+  ],
+  "author": "Richard Szanyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richardszanyi/dotenv-jsonenv/issues"
+  },
+  "homepage": "https://github.com/richardszanyi/dotenv-jsonenv#readme"
+}
