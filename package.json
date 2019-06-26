@@ -1,6 +1,6 @@
 {
   "name": "dotenv-jsonenv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Load environment variables via a JSON file's env property",
   "main": "index.js",
   "scripts": {

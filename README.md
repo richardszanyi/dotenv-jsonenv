@@ -1,4 +1,4 @@
-# dotenv-json
+# dotenv-jsonenv
 
 > Load environment variables via a JSON file
 
